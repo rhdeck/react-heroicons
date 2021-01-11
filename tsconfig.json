@@ -5,6 +5,6 @@
     "noImplicitAny": true,
     "allowSyntheticDefaultImports": true,
     "declaration": true,
-    "outDir": "dist"
+    "outDir": "dist", "lib":["ES2018"]
   }
 }
